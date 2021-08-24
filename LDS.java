@@ -1,4 +1,4 @@
-// linked list
+// singly linked list
 
 public class LDS{
     private ListNode head;
